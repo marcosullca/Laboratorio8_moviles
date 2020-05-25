@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorio 8</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_no_api">Map</string>
+</resources>
